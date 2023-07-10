@@ -1,5 +1,0 @@
-pip install django-echarts
-pip install django
-pip install borax
-进入pyecharts-0.4.1文件夹，python setup.py install
-pip install jinja2, pillow, future
